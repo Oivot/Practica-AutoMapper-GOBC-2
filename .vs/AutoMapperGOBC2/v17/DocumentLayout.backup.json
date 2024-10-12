@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|c:\\users\\gael\\source\\repos\\automappergobc2\\automappergobc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|solutionrelative:automappergobc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|c:\\users\\gael\\source\\repos\\automappergobc2\\automappergobc2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|solutionrelative:automappergobc2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|c:\\users\\gael\\source\\repos\\automappergobc2\\automappergobc2\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|solutionrelative:automappergobc2\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|c:\\users\\gael\\source\\repos\\automappergobc2\\automappergobc2\\perfildemapeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|solutionrelative:automappergobc2\\perfildemapeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|c:\\users\\gael\\source\\repos\\automappergobc2\\automappergobc2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|solutionrelative:automappergobc2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|c:\\users\\gael\\source\\repos\\automappergobc2\\automappergobc2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|solutionrelative:automappergobc2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|c:\\users\\gael\\source\\repos\\automappergobc2\\automappergobc2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4908A5F-9F0E-4EF7-8F88-9A15834B2F87}|AutoMapperGOBC2\\AutoMapperGOBC2.csproj|solutionrelative:automappergobc2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AutoMapperGOBC2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\WeatherForecast.cs",
+              "RelativeToolTip": "AutoMapperGOBC2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:51:11.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AutoMapperGOBC2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AutoMapperGOBC2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:06:13.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "AutoMapperGOBC2\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "AutoMapperGOBC2\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:44:59.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Models\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "AutoMapperGOBC2\\Models\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Models\\ProductoDTO.cs",
+              "RelativeToolTip": "AutoMapperGOBC2\\Models\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:44:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Program.cs",
+              "RelativeDocumentMoniker": "AutoMapperGOBC2\\Program.cs",
+              "ToolTip": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Program.cs",
+              "RelativeToolTip": "AutoMapperGOBC2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:44:26.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "AutoMapperGOBC2\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\Models\\Producto.cs",
+              "RelativeToolTip": "AutoMapperGOBC2\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:44:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerfilDeMapeo.cs",
+              "DocumentMoniker": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\PerfilDeMapeo.cs",
+              "RelativeDocumentMoniker": "AutoMapperGOBC2\\PerfilDeMapeo.cs",
+              "ToolTip": "C:\\Users\\Gael\\source\\repos\\AutoMapperGOBC2\\AutoMapperGOBC2\\PerfilDeMapeo.cs",
+              "RelativeToolTip": "AutoMapperGOBC2\\PerfilDeMapeo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:44:05.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
